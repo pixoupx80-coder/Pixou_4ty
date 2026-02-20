@@ -1,9 +1,0 @@
-protobuf
-google
-asyncio
-aiohttp
-requests
-pyjwt
-cfonts
-pycryptodome
-protobuf-inspector
