@@ -1,0 +1,8 @@
+protobuf
+google
+asyncio
+aiohttp
+requests
+pyjwt
+cfonts
+pycryptodome
