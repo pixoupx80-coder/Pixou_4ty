@@ -1,8 +1,0 @@
-pip install protobuf
-pip install google
-pip install asyncio
-pip install aiohttp
-pip install requests
-pip install pyjwt
-pip install cfonts
-pip install pycryptodome
